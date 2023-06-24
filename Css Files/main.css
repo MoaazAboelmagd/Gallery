@@ -56,7 +56,6 @@ body{
     }
     .header{
         padding: 30px;
-        font-size: large;
     }  
     .gototop{
         position: fixed;
@@ -80,7 +79,6 @@ body{
     }
     .header{
         padding: 20px;
-        font-size: medium;
     }   
     .gototop{
         position: fixed;
