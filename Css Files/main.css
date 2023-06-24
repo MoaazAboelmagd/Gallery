@@ -97,7 +97,7 @@ body{
 /* start landing section */
 .landing{
     color: white;
-    background-image: url(../images/cover.jpg);
+    background-image: url(../images/Hello.jpg);
     background-size: cover;
     height: calc(100vh - 60px);
     position: relative;
