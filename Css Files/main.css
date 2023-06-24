@@ -34,16 +34,6 @@ body{
     .header{
         padding: 40px;
     }  
-    .gototop{
-        position: fixed;
-        width: 90px;
-        height: 90px;
-        bottom: 50px;
-        right: 90px;
-        line-height: 90px;
-        color: var(--main-color);
-        font-size: 60px;
-    }
 }
 
 /* medium screens */
@@ -54,16 +44,6 @@ body{
     .header{
         padding: 30px;
     }  
-    .gototop{
-        position: fixed;
-        width: 70px;
-        height: 70px;
-        bottom: 30px;
-        right: 70px;
-        line-height: 70px;
-        color: var(--main-color);
-        font-size: 50px;
-    }
 }
 
 /* large screens */
@@ -74,16 +54,6 @@ body{
     .header{
         padding: 20px;
     }   
-    .gototop{
-        position: fixed;
-        width: 50px;
-        height: 50px;
-        bottom: 15px;
-        right: 50px;
-        line-height: 50px;
-        color: var(--main-color);
-        font-size: 40px;
-    }
 }
 /* end global rules */
 
@@ -361,3 +331,16 @@ body{
 }
 /* end footer section*/
 
+.gototop{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 40px;
+    right: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 30px;
+    background:snow;
+    color: var(--main-color);
+    font-size: 40px;
+}
